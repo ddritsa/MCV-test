@@ -1,0 +1,16 @@
+,timestamp,HR,co2,noise,humidity,stress,sleepscore,fatigue,mood,activityintensity,foodintake,food,activitytype,company,location,Filter A,Filter B
+0,2025-09-01T08:00:00,118,1163,62,65,7,3,2,6,6,4,milk,walk,partner,park,,
+1,2025-09-01T10:06:00,62,709,59,39,5,6,5,7,4,1,fruit,walk,colleagues,cafe,,
+2,2025-09-01T12:12:00,85,1225,51,35,4,4,6,2,6,6,oatmeal,walk,partner,home,,
+3,2025-09-01T14:18:00,80,1533,69,37,5,3,4,3,4,6,fruit,bike,partner,office,,
+4,2025-09-01T16:24:00,126,409,45,56,6,2,1,5,1,2,cracker,walk,colleagues,office,,
+5,2025-09-01T18:30:00,121,1528,52,45,6,4,3,4,3,4,cracker,walk,friends,office,Yes,Yes
+6,2025-09-01T20:36:00,140,1377,63,62,2,3,7,4,1,4,yoghurt,swim,friends,park,,
+7,2025-09-01T22:42:00,68,876,55,57,1,5,4,2,7,3,cracker,walk,partner,office,,
+8,2025-09-02T00:48:00,98,618,64,63,3,6,7,2,6,6,milk,yoga,relatives,park,,
+9,2025-09-02T02:54:00,63,1740,53,52,3,3,6,7,6,4,cracker,bike,partner,office,,
+10,2025-09-02T05:00:00,80,871,58,46,2,2,1,3,3,2,oatmeal,swim,partner,cafe,Yes,
+11,2025-09-02T07:06:00,105,530,32,54,7,7,5,7,1,4,oatmeal,tennis,partner,park,,
+12,2025-09-02T09:12:00,62,535,39,42,6,4,5,6,6,5,yoghurt,bike,friends,office,Yes,
+13,2025-09-02T11:18:00,78,1586,42,44,3,2,4,5,7,2,oatmeal,yoga,friends,home,Yes,
+14,2025-09-02T13:24:00,118,1245,33,50,5,1,3,5,2,3,yoghurt,bike,friends,park,Yes,
