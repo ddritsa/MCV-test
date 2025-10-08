@@ -1,0 +1,16 @@
+,timestamp,HR,co2,noise,humidity,stress,sleepscore,fatigue,mood,activityintensity,foodintake,food,activitytype,company,location,Filter A,Filter A2,Filter B,Filter B2
+0,2025-09-01T08:00:00,107,1723,33,61,6,7,6,2,3,6,yoghurt,walk,friends,home,,,,
+1,2025-09-01T10:00:00,133,962,68,65,3,6,4,4,2,3,milk,tennis,colleagues,cafe,,,,
+2,2025-09-01T12:00:00,146,1798,49,40,3,1,6,3,3,3,milk,swim,relatives,office,,,,
+3,2025-09-01T14:00:00,86,487,70,52,6,4,7,2,1,5,yoghurt,yoga,relatives,office,,,,
+4,2025-09-01T16:00:00,129,1538,36,68,4,5,6,3,5,4,yoghurt,bike,relatives,park,,,,
+5,2025-09-01T18:00:00,123,1625,62,51,3,3,1,5,4,4,fruit,walk,relatives,cafe,,,,
+6,2025-09-01T20:00:00,120,611,63,44,1,5,7,4,4,2,milk,walk,partner,park,,,,
+7,2025-09-01T22:00:00,70,1388,67,41,6,7,2,3,6,4,milk,tennis,partner,home,,,,
+8,2025-09-02T00:00:00,62,1182,31,61,3,5,6,4,3,5,yoghurt,yoga,friends,cafe,,,,
+9,2025-09-02T02:00:00,95,1737,45,38,4,3,6,4,4,6,cracker,bike,relatives,office,,Yes,,Yes
+10,2025-09-02T04:00:00,127,694,32,54,3,2,5,4,7,4,milk,walk,friends,home,,,,
+11,2025-09-02T06:00:00,83,1156,60,52,5,3,3,4,4,4,yoghurt,tennis,friends,park,,,,
+12,2025-09-02T08:00:00,105,1635,44,52,5,2,1,7,5,4,oatmeal,walk,relatives,cafe,Yes,,Yes,
+13,2025-09-02T10:00:00,89,1294,68,35,3,2,2,6,3,4,yoghurt,tennis,relatives,office,,,,
+14,2025-09-02T12:00:00,136,833,45,56,1,2,5,2,7,4,yoghurt,walk,relatives,park,,,,
